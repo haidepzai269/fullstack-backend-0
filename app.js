@@ -1,1 +1,0 @@
-console.log("HELLO WORLD  cùng Donal");
